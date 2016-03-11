@@ -1,0 +1,6 @@
+env.d/
+venv/
+lockfile
+.DS_Store
+credentials
+credentials.txt
